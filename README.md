@@ -8,3 +8,6 @@ Example: DS Project -->
                crypto_app.p
                pages -->
                   News.py
+
+                  
+Link to the website : https://cryptocurrencytrendpredictor-fh6tvqeiuknhipp8edipke.streamlit.app/
