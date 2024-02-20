@@ -1,4 +1,4 @@
-# Cryptocurrency-Market-Prediction
+# Cryptocurrency-Trend-Predictor
 
 Run it with command  --- python -m streamlit run .\crypto_app.py
                      (or) streamlit run .\crypto_app.py
