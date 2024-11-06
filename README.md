@@ -1,7 +1,7 @@
 # Cryptocurrency-Trend-Predictor
 
-Run it with command  --- python -m streamlit run .\crypto_app.py
-                     (or) streamlit run .\crypto_app.py
+Run it with command  --- python3 -m streamlit run Crypto.py
+                     (or) streamlit run Crypto.py
 
 In the downloaded folder, create a folder called pages and put the News.py in that for it to work properly in the web app.
 Example: DS Project -->
